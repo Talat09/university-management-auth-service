@@ -1,0 +1,100 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "G:\\web level2 programming hero\\Milestone 3\\university-management-auth-service\\logs\\winston\\errors\\.d9993a1f8d3669030797f7c62e534ec716dc29a5-audit.json",
+    "files": [
+        {
+            "date": 1686205083177,
+            "name": "G:\\web level2 programming hero\\Milestone 3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-08-06-12-error.log",
+            "hash": "49560fdccf76aa344fc672c8cbf250671089df5fb0f3faa3bcd71c51be201a9a"
+        },
+        {
+            "date": 1686216058618,
+            "name": "G:\\web level2 programming hero\\Milestone 3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-08-06-15-error.log",
+            "hash": "03c7c84fab844d9a520025f03e27c70b1a723f52fa5d24dfcc23366dc0cbdc67"
+        },
+        {
+            "date": 1686235298788,
+            "name": "G:\\web level2 programming hero\\Milestone 3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-08-06-20-error.log",
+            "hash": "c31e7bbe2a88cb0e8488e4b70ec1f825a7ffc5a63cdf8c293f1d52fd3e195f63"
+        },
+        {
+            "date": 1686236963602,
+            "name": "G:\\web level2 programming hero\\Milestone 3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-08-06-21-error.log",
+            "hash": "fe9c89d37cfc05a13ee0fbaa74bc60d4f095b5996c29a942df3adcde59aed27a"
+        },
+        {
+            "date": 1686240017630,
+            "name": "G:\\web level2 programming hero\\Milestone 3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-08-06-22-error.log",
+            "hash": "717bbb5067073d7877831857a25884df8db99ccea4408cda95346c4c6e04214e"
+        },
+        {
+            "date": 1686244039976,
+            "name": "G:\\web level2 programming hero\\Milestone 3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-08-06-23-error.log",
+            "hash": "d7161194ee42d3896a16ae37e8c6bc3ca26344c23eb3b967dacbaf0ce8d83b0c"
+        },
+        {
+            "date": 1686304810917,
+            "name": "G:\\web level2 programming hero\\Milestone 3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-09-06-16-error.log",
+            "hash": "e4eb526f4b1f354e5f253c4efc32da776f5a2a6ac2fd9e68fbaf2badaff722bb"
+        },
+        {
+            "date": 1686323825832,
+            "name": "G:\\web level2 programming hero\\Milestone 3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-09-06-21-error.log",
+            "hash": "3be62e0df63fa20f13254784db16dea9d11d42df914652ed26e8bd3a0f6bc739"
+        },
+        {
+            "date": 1686327801593,
+            "name": "G:\\web level2 programming hero\\Milestone 3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-09-06-22-error.log",
+            "hash": "d3073116258b070c900d7435099dfd177cb624ea348887df861ed842756c6881"
+        },
+        {
+            "date": 1686330184115,
+            "name": "G:\\web level2 programming hero\\Milestone 3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-09-06-23-error.log",
+            "hash": "6ae19d500d441b7e599c954adc9e3113f20ea8f4b3adceca21020d9d93e5d341"
+        },
+        {
+            "date": 1686333731642,
+            "name": "G:\\web level2 programming hero\\Milestone 3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-10-06-00-error.log",
+            "hash": "9a4040e14364b16a45c1124b23c3466685b8381124f419800f8b229f492b3ee8"
+        },
+        {
+            "date": 1686391306460,
+            "name": "G:\\web level2 programming hero\\Milestone 3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-10-06-16-error.log",
+            "hash": "b22d7514268b34aaef61e305b51f4a41ab7a2ccbb422667f384625de5e9350ad"
+        },
+        {
+            "date": 1686394916063,
+            "name": "G:\\web level2 programming hero\\Milestone 3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-10-06-17-error.log",
+            "hash": "cd39bc399d5aa8db892f0e8888b3f045a8b438b774e660c858c177351c737de9"
+        },
+        {
+            "date": 1686398440207,
+            "name": "G:\\web level2 programming hero\\Milestone 3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-10-06-18-error.log",
+            "hash": "56a01089f186d96ff37cfd14a2f18cb755c95eee661dc790e226fb4b0f36f0ed"
+        },
+        {
+            "date": 1686414969118,
+            "name": "G:\\web level2 programming hero\\Milestone 3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-10-06-22-error.log",
+            "hash": "ff7bfc80d53c3069ac337daf80058a27b16b0b20dc4835309a62550f9e6e92bb"
+        },
+        {
+            "date": 1686417586080,
+            "name": "G:\\web level2 programming hero\\Milestone 3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-10-06-23-error.log",
+            "hash": "d43eeace367420d6f2d0c75838ffb1c327d933107d7b59f6378edd14392957d7"
+        },
+        {
+            "date": 1686420410111,
+            "name": "G:\\web level2 programming hero\\Milestone 3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-11-06-00-error.log",
+            "hash": "7a7dbe38b33e591c400567094bf05e2ce0b4613c548a893566f6daba922cf9db"
+        },
+        {
+            "date": 1686423858825,
+            "name": "G:\\web level2 programming hero\\Milestone 3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-11-06-01-error.log",
+            "hash": "e89fcc317144e39e1e10e11bb21fa98bb3570de36223504cab2fac2bfe69b604"
+        }
+    ],
+    "hashType": "sha256"
+}
