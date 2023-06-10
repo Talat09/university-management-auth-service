@@ -94,6 +94,11 @@
             "date": 1686423858825,
             "name": "G:\\web level2 programming hero\\Milestone 3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-11-06-01-error.log",
             "hash": "e89fcc317144e39e1e10e11bb21fa98bb3570de36223504cab2fac2bfe69b604"
+        },
+        {
+            "date": 1686428611148,
+            "name": "G:\\web level2 programming hero\\Milestone 3\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-11-06-02-error.log",
+            "hash": "d3d02383cd6066f7c7418f847b566462f25674cccde291f5a1cb0e490ea94dac"
         }
     ],
     "hashType": "sha256"
