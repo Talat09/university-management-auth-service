@@ -98,6 +98,7 @@ const getAllsemesters = async (
     data: result,
   };
 };
+
 //get single semester
 const getSingleSemester = async (
   id: string
