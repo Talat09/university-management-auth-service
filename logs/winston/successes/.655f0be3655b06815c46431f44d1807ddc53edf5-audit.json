@@ -1,25 +1,25 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "G:\\web level2 programming hero\\Milestone 3\\university-management-auth-service\\logs\\winston\\successes\\.655f0be3655b06815c46431f44d1807ddc53edf5-audit.json",
+  "files": [
+    {
+      "date": 1700379067453,
+      "name": "G:\\web level2 programming hero\\Milestone 3\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-19-11-13-success.log",
+      "hash": "7f1f4cdba5002906d86815fcba1bd5bb5fa40911015a3120fb811da3f83c72d2"
     },
-    "auditLog": "G:\\web level2 programming hero\\Milestone 3\\university-management-auth-service\\logs\\winston\\successes\\.655f0be3655b06815c46431f44d1807ddc53edf5-audit.json",
-    "files": [
-        {
-            "date": 1700379067453,
-            "name": "G:\\web level2 programming hero\\Milestone 3\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-19-11-13-success.log",
-            "hash": "7f1f4cdba5002906d86815fcba1bd5bb5fa40911015a3120fb811da3f83c72d2"
-        },
-        {
-            "date": 1701190792957,
-            "name": "G:\\web level2 programming hero\\Milestone 3\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-28-11-22-success.log",
-            "hash": "91626f395eb2994d5e5c655533090b8ef06ae99c7bf7f9cf9f7ceea49d33ffc2"
-        },
-        {
-            "date": 1701191500509,
-            "name": "G:\\web level2 programming hero\\Milestone 3\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-28-11-23-success.log",
-            "hash": "c5f443a05fb5eedbc3a3360a0aa2511500f0f0a6d40335a50826865e854efcce"
-        }
-    ],
-    "hashType": "sha256"
+    {
+      "date": 1701190792957,
+      "name": "G:\\web level2 programming hero\\Milestone 3\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-28-11-22-success.log",
+      "hash": "91626f395eb2994d5e5c655533090b8ef06ae99c7bf7f9cf9f7ceea49d33ffc2"
+    },
+    {
+      "date": 1701191500509,
+      "name": "G:\\web level2 programming hero\\Milestone 3\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-28-11-23-success.log",
+      "hash": "c5f443a05fb5eedbc3a3360a0aa2511500f0f0a6d40335a50826865e854efcce"
+    }
+  ],
+  "hashType": "sha256"
 }
